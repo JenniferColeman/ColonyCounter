@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Snazz\\Documents\\Projects\\AgarApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
+            "outputFile": "C:\\Users\\Snazz\\Documents\\Projects\\ColonyCounter\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Snazz\\.gradle\\caches\\transforms-2\\files-2.1\\802f69bc047a92bb9da9baad0f66b659\\appcompat-1.0.2\\res\\values-v26\\values-v26.xml",

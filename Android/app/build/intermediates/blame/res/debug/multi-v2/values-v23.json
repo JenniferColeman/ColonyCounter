@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Snazz\\Documents\\Projects\\AgarApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\Snazz\\Documents\\Projects\\ColonyCounter\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Snazz\\.gradle\\caches\\transforms-2\\files-2.1\\4396c2f11dd7e645d9262d21ecccad75\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",

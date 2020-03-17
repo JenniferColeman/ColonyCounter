@@ -6,57 +6,57 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="28"
-8-->C:\Users\Snazz\Documents\Projects\AgarApp\app\src\main\AndroidManifest.xml
+8-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="28" />
-9-->C:\Users\Snazz\Documents\Projects\AgarApp\app\src\main\AndroidManifest.xml
+9-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-11-->C:\Users\Snazz\Documents\Projects\AgarApp\app\src\main\AndroidManifest.xml:4:5-79
-11-->C:\Users\Snazz\Documents\Projects\AgarApp\app\src\main\AndroidManifest.xml:4:22-77
+11-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:4:5-79
+11-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:4:22-77
 12
 13    <uses-feature
-13-->C:\Users\Snazz\Documents\Projects\AgarApp\app\src\main\AndroidManifest.xml:5:5-6:44
+13-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:5:5-6:44
 14        android:name="android.hardware.camera"
-14-->C:\Users\Snazz\Documents\Projects\AgarApp\app\src\main\AndroidManifest.xml:5:19-57
+14-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:5:19-57
 15        android:required="true" />
-15-->C:\Users\Snazz\Documents\Projects\AgarApp\app\src\main\AndroidManifest.xml:6:19-42
+15-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:6:19-42
 16
 17    <application
-17-->C:\Users\Snazz\Documents\Projects\AgarApp\app\src\main\AndroidManifest.xml:7:5-24:19
+17-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:7:5-24:19
 18        android:allowBackup="true"
-18-->C:\Users\Snazz\Documents\Projects\AgarApp\app\src\main\AndroidManifest.xml:8:9-35
+18-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:8:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 19-->[androidx.core:core:1.0.2] C:\Users\Snazz\.gradle\caches\transforms-2\files-2.1\aaca0b4c7bc5e3b44b7d05468fa4cf78\core-1.0.2\AndroidManifest.xml:22:18-86
 20        android:debuggable="true"
 21        android:extractNativeLibs="false"
 22        android:icon="@mipmap/ic_launcher"
-22-->C:\Users\Snazz\Documents\Projects\AgarApp\app\src\main\AndroidManifest.xml:9:9-43
+22-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:9:9-43
 23        android:label="@string/app_name"
-23-->C:\Users\Snazz\Documents\Projects\AgarApp\app\src\main\AndroidManifest.xml:10:9-41
+23-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:10:9-41
 24        android:roundIcon="@mipmap/ic_launcher_round"
-24-->C:\Users\Snazz\Documents\Projects\AgarApp\app\src\main\AndroidManifest.xml:11:9-54
+24-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:11:9-54
 25        android:supportsRtl="true"
-25-->C:\Users\Snazz\Documents\Projects\AgarApp\app\src\main\AndroidManifest.xml:12:9-35
+25-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:12:9-35
 26        android:testOnly="true"
 27        android:theme="@style/AppTheme" >
-27-->C:\Users\Snazz\Documents\Projects\AgarApp\app\src\main\AndroidManifest.xml:13:9-40
+27-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:13:9-40
 28        <activity
-28-->C:\Users\Snazz\Documents\Projects\AgarApp\app\src\main\AndroidManifest.xml:14:9-23:20
+28-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:14:9-23:20
 29            android:name="com.example.agarapp.MainActivity"
-29-->C:\Users\Snazz\Documents\Projects\AgarApp\app\src\main\AndroidManifest.xml:15:13-41
+29-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:15:13-41
 30            android:label="@string/app_name"
-30-->C:\Users\Snazz\Documents\Projects\AgarApp\app\src\main\AndroidManifest.xml:16:13-45
+30-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:16:13-45
 31            android:theme="@style/AppTheme.NoActionBar" >
-31-->C:\Users\Snazz\Documents\Projects\AgarApp\app\src\main\AndroidManifest.xml:17:13-56
+31-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:17:13-56
 32            <intent-filter>
-32-->C:\Users\Snazz\Documents\Projects\AgarApp\app\src\main\AndroidManifest.xml:18:13-22:29
+32-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:18:13-22:29
 33                <action android:name="android.intent.action.MAIN" />
-33-->C:\Users\Snazz\Documents\Projects\AgarApp\app\src\main\AndroidManifest.xml:19:17-69
-33-->C:\Users\Snazz\Documents\Projects\AgarApp\app\src\main\AndroidManifest.xml:19:25-66
+33-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:19:17-69
+33-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:19:25-66
 34
 35                <category android:name="android.intent.category.LAUNCHER" />
-35-->C:\Users\Snazz\Documents\Projects\AgarApp\app\src\main\AndroidManifest.xml:21:17-77
-35-->C:\Users\Snazz\Documents\Projects\AgarApp\app\src\main\AndroidManifest.xml:21:27-74
+35-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:21:17-77
+35-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:21:27-74
 36            </intent-filter>
 37        </activity>
 38    </application>
