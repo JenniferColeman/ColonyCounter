@@ -1,0 +1,7 @@
+Flask
+flake8
+matplotlib
+scipy
+numpy
+pandas
+pymongo
