@@ -28,6 +28,10 @@
         "source": "C:\\Users\\Snazz\\Documents\\Projects\\ColonyCounter\\Android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
+        "merged": "C:\\Users\\Snazz\\Documents\\Projects\\ColonyCounter\\Android\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_history.xml.flat",
+        "source": "C:\\Users\\Snazz\\Documents\\Projects\\ColonyCounter\\Android\\app\\src\\main\\res\\menu\\menu_history.xml"
+    },
+    {
         "merged": "C:\\Users\\Snazz\\Documents\\Projects\\ColonyCounter\\Android\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
         "source": "C:\\Users\\Snazz\\Documents\\Projects\\ColonyCounter\\Android\\app\\src\\main\\res\\navigation\\nav_graph.xml"
     },
@@ -62,6 +66,10 @@
     {
         "merged": "C:\\Users\\Snazz\\Documents\\Projects\\ColonyCounter\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\Snazz\\Documents\\Projects\\ColonyCounter\\Android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Snazz\\Documents\\Projects\\ColonyCounter\\Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\Snazz\\Documents\\Projects\\ColonyCounter\\Android\\app\\src\\main\\res\\layout\\activity_history.xml"
     },
     {
         "merged": "C:\\Users\\Snazz\\Documents\\Projects\\ColonyCounter\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
