@@ -1079,6 +1079,7 @@ id action_text
 id actions
 id activity_chooser_view_content
 id add
+id agarPhoto
 id alertTitle
 id all
 id always
@@ -1107,6 +1108,7 @@ id coordinator
 id coordinatorLayout
 id custom
 id customPanel
+id dateRecorded
 id decor_content_parent
 id default_activity_button
 id design_bottom_sheet
@@ -1169,6 +1171,7 @@ id normal
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id numColonies
 id outline
 id packed
 id parallax
