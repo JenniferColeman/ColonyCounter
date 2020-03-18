@@ -22,7 +22,7 @@
 15-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:9:9-32
 16
 17    <application
-17-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:11:5-38:19
+17-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:11:5-42:19
 18        android:allowBackup="true"
 18-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:12:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -41,43 +41,51 @@
 27        android:theme="@style/AppTheme" >
 27-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:17:9-40
 28        <activity
-28-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:18:9-27:20
-29            android:name="com.example.agarapp.MainActivity"
-29-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:19:13-41
-30            android:label="@string/app_name"
-30-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:20:13-45
-31            android:theme="@style/AppTheme.NoActionBar" >
+28-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:18:9-21:68
+29            android:name="com.example.agarapp.ResultActivity"
+29-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:19:13-43
+30            android:label="@string/title_activity_result"
+30-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:20:13-58
+31            android:theme="@style/AppTheme.NoActionBar" />
 31-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:21:13-56
-32            <intent-filter>
-32-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:22:13-26:29
-33                <action android:name="android.intent.action.MAIN" />
-33-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:23:17-69
-33-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:23:25-66
-34
-35                <category android:name="android.intent.category.LAUNCHER" />
-35-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:25:17-77
-35-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:25:27-74
-36            </intent-filter>
-37        </activity>
-38        <activity
-38-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:28:9-37:20
-39            android:name="com.example.agarapp.HistoryActivity"
-39-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:29:13-44
-40            android:label="@string/app_name"
-40-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:30:13-45
-41            android:theme="@style/AppTheme.NoActionBar" >
-41-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:31:13-56
-42            <intent-filter>
-42-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:32:13-36:29
-43                <action android:name="android.intent.action.HISTORY" />
-43-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:33:17-72
-43-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:33:25-69
-44
-45                <category android:name="android.intent.category.LAUNCHER" />
-45-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:25:17-77
-45-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:25:27-74
-46            </intent-filter>
-47        </activity>
-48    </application>
-49
-50</manifest>
+32        <activity
+32-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:22:9-31:20
+33            android:name="com.example.agarapp.MainActivity"
+33-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:23:13-41
+34            android:label="@string/app_name"
+34-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:24:13-45
+35            android:theme="@style/AppTheme.NoActionBar" >
+35-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:25:13-56
+36            <intent-filter>
+36-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:26:13-30:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:27:17-69
+37-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:27:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:29:17-77
+39-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:29:27-74
+40            </intent-filter>
+41        </activity>
+42        <activity
+42-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:32:9-41:20
+43            android:name="com.example.agarapp.HistoryActivity"
+43-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:33:13-44
+44            android:label="@string/app_name"
+44-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:34:13-45
+45            android:theme="@style/AppTheme.NoActionBar" >
+45-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:35:13-56
+46            <intent-filter>
+46-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:36:13-40:29
+47                <action android:name="android.intent.action.HISTORY" />
+47-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:37:17-72
+47-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:37:25-69
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:29:17-77
+49-->C:\Users\Snazz\Documents\Projects\ColonyCounter\Android\app\src\main\AndroidManifest.xml:29:27-74
+50            </intent-filter>
+51        </activity>
+52    </application>
+53
+54</manifest>

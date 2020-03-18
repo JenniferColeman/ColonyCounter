@@ -1050,12 +1050,16 @@ drawable tooltip_frame_light
 id ALT
 id CTRL
 id FUNCTION
+id First2Fragment
 id FirstFragment
 id META
 id SHIFT
 id SYM
+id Second2Fragment
 id SecondFragment
+id action_First2Fragment_to_Second2Fragment
 id action_FirstFragment_to_SecondFragment
+id action_Second2Fragment_to_First2Fragment
 id action_SecondFragment_to_FirstFragment
 id action_bar
 id action_bar_activity_content
@@ -1106,6 +1110,8 @@ id content
 id contentPanel
 id coordinator
 id coordinatorLayout
+id curDate
+id curTime
 id custom
 id customPanel
 id dateRecorded
@@ -1144,6 +1150,7 @@ id icon_group
 id ifRoom
 id image
 id imageView
+id imageView3
 id info
 id invisible
 id italic
@@ -1164,6 +1171,7 @@ id mtrl_internal_children_alpha_tag
 id multiply
 id nav_controller_view_tag
 id nav_graph
+id nav_graph2
 id navigation_header_container
 id never
 id none
@@ -1172,6 +1180,7 @@ id notification_background
 id notification_main_column
 id notification_main_column_container
 id numColonies
+id num_col
 id outline
 id packed
 id parallax
@@ -1183,6 +1192,7 @@ id pin
 id progress_circular
 id progress_horizontal
 id radio
+id results_date
 id right
 id right_icon
 id right_side
@@ -1250,6 +1260,7 @@ id titleDividerNoCustom
 id title_template
 id toolbar
 id toolbar2
+id toolbar3
 id top
 id topPanel
 id touch_outside
@@ -1317,6 +1328,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_history
 layout activity_main
+layout activity_result
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
 layout design_layout_snackbar
@@ -1332,7 +1344,9 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_password_icon
 layout fragment_first
+layout fragment_first2
 layout fragment_second
+layout fragment_second2
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
 layout notification_action
@@ -1347,9 +1361,11 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 menu menu_history
 menu menu_main
+menu menu_result
 mipmap ic_launcher
 mipmap ic_launcher_round
 navigation nav_graph
+navigation nav_graph2
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -1397,6 +1413,8 @@ string appbar_scrolling_view_behavior
 string bottom_sheet_behavior
 string character_counter_content_description
 string character_counter_pattern
+string cur_time_str
+string dataRecorded1
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string first_fragment_label
@@ -1409,17 +1427,22 @@ string mtrl_chip_close_icon_content_description
 string nav_app_bar_navigate_up_description
 string nav_app_bar_open_drawer_description
 string next
+string numColonies
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
 string previous
+string result_date
+string result_num_col
+string result_time
 string search_menu_title
 string second_fragment_label
 string status_bar_notification_info_overflow
 string takePhotoTxt
 string title_activity_history
+string title_activity_result
 string uploadPhotoTxt
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light

@@ -106,4 +106,9 @@
     <string name="action_home">Home</string>
     <string name="numColonies">22 Colonies</string>
     <string name="dataRecorded1">3/1/2020 11:41AM</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="result_date">"Date: "</string>
+    <string name="result_time">Time: </string>
+    <string name="result_num_col">"Number of Colonies: "</string>
+    <string name="cur_time_str">Cur_time</string>
 </resources>
