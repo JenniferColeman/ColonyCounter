@@ -6,6 +6,7 @@ import android.view.Menu
 import android.view.MenuItem
 import com.google.android.material.snackbar.Snackbar
 import androidx.appcompat.app.AppCompatActivity
+import androidx.appcompat.widget.Toolbar
 
 import kotlinx.android.synthetic.main.activity_result.*
 
@@ -14,7 +15,9 @@ class ResultActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_result)
-        setSupportActionBar(toolbar3)
+
+        val tbar2: Toolbar = findViewById(R.id.toolbar3)
+        setSupportActionBar(tbar2)
         supportActionBar?.title = "Results"
     }
 
@@ -29,7 +32,12 @@ class ResultActivity : AppCompatActivity() {
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
         return when (item.itemId) {
-            R.id.action_history -> {
+            R.id.action_home -> {
+                val intent = Intent(this, MainActivity::class.java)
+                startActivity(intent)
+                true
+            }
+            R.id.action_history ->{
                 val intent = Intent(this, HistoryActivity::class.java)
                 startActivity(intent)
                 true
