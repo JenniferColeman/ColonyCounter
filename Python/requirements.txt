@@ -1,7 +1,9 @@
 Flask
+flask_cors
 flake8
 matplotlib
 scipy
 numpy
 pandas
 pymongo
+wheel

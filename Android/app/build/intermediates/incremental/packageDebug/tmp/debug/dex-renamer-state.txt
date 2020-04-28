@@ -1,7 +1,7 @@
-#Wed Mar 18 15:59:39 CDT 2020
-base.0=C\:\\Users\\Snazz\\Documents\\Projects\\ColonyCounter\\Android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+#Mon Apr 27 15:34:41 CDT 2020
+base.0=/Users/derek/Classes/cs4096/agar/Android/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=C\:\\Users\\Snazz\\Documents\\Projects\\ColonyCounter\\Android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+base.1=/Users/derek/Classes/cs4096/agar/Android/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex

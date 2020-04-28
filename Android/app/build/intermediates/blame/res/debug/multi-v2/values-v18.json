@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Snazz\\Documents\\Projects\\ColonyCounter\\Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+            "outputFile": "/Users/derek/Classes/cs4096/agar/Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Snazz\\.gradle\\caches\\transforms-2\\files-2.1\\802f69bc047a92bb9da9baad0f66b659\\appcompat-1.0.2\\res\\values-v18\\values-v18.xml",
+                    "source": "/Users/derek/.gradle/caches/transforms-2/files-2.1/11767fcd7487e7fe2cdc9cf0d9d17aa5/appcompat-1.0.2/res/values-v18/values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -8,8 +8,14 @@ import android.view.MenuItem
 import android.content.Intent
 import android.graphics.Bitmap
 import android.provider.MediaStore
+import android.widget.TextView
+import com.android.volley.Request
+import com.android.volley.Response
+import com.android.volley.toolbox.StringRequest
+import com.android.volley.toolbox.Volley
 
 import kotlinx.android.synthetic.main.activity_main.*
+import java.net.URL
 
 class MainActivity : AppCompatActivity() {
 
@@ -24,6 +30,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         takePhoto.setOnClickListener {
+            dispatchHandleRequest();
             dispatchTakePictureIntent();
         }
 
@@ -31,6 +38,27 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, ResultActivity::class.java)
             startActivity(intent)
         }
+    }
+
+    private fun dispatchHandleRequest() {
+        val textView = findViewById<TextView>(R.id.text)
+// ...
+
+// Instantiate the RequestQueue.
+        val queue = Volley.newRequestQueue(this)
+        val url = "http://localhost:5000/"
+
+// Request a string response from the provided URL.
+        val stringRequest = StringRequest(
+            Request.Method.GET, url,
+            Response.Listener<String> { response ->
+                // Display the first 500 characters of the response string.
+                textView.text = "Response is: ${response.substring(0, 500)}"
+            },
+            Response.ErrorListener { textView.text = "That didn't work!" })
+
+// Add the request to the RequestQueue
+        queue.add(stringRequest)
     }
 
     private fun pickImageFromGallery() {
