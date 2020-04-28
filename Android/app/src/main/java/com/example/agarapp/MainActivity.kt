@@ -46,7 +46,7 @@ class MainActivity : AppCompatActivity() {
 
 // Instantiate the RequestQueue.
         val queue = Volley.newRequestQueue(this)
-        val url = "http://localhost:5000/"
+        val url = "https://google.com"
 
 // Request a string response from the provided URL.
         val stringRequest = StringRequest(
