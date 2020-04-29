@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/derek/Classes/cs4096/agar/Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml",
+            "outputFile": "/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml",
             "map": [
                 {
                     "source": "/Users/derek/.gradle/caches/transforms-2/files-2.1/11767fcd7487e7fe2cdc9cf0d9d17aa5/appcompat-1.0.2/res/values-mn/values-mn.xml",

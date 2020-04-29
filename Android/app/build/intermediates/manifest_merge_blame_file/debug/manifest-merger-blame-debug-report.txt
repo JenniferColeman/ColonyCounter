@@ -6,98 +6,98 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="28"
-8-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml
+8-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="28" />
-9-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml
+9-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-11-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:5:5-80
-11-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:5:22-77
+11-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:5:5-80
+11-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:5:22-77
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:6:5-7:11
-12-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:6:22-64
+12-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:6:5-7:11
+12-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:6:22-64
 13
 14    <uses-feature
-14-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:9:5-11:35
+14-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:9:5-11:35
 15        android:name="android.hardware.camera"
-15-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:10:9-47
+15-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:10:9-47
 16        android:required="true" />
-16-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:11:9-32
+16-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:11:9-32
 17
 18    <application
-18-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:13:5-50:19
+18-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:13:5-50:19
 19        android:allowBackup="true"
-19-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:14:9-35
+19-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:14:9-35
 20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 20-->[androidx.core:core:1.0.2] /Users/derek/.gradle/caches/transforms-2/files-2.1/ac4c1a11a19ffdad8949ea2821fd03f8/core-1.0.2/AndroidManifest.xml:22:18-86
 21        android:debuggable="true"
 22        android:extractNativeLibs="false"
 23        android:icon="@mipmap/ic_launcher"
-23-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:15:9-43
+23-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:15:9-43
 24        android:label="@string/app_name"
-24-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:16:9-41
+24-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:16:9-41
 25        android:roundIcon="@mipmap/ic_launcher_round"
-25-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:17:9-54
+25-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:17:9-54
 26        android:supportsRtl="true"
-26-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:18:9-35
+26-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:18:9-35
 27        android:testOnly="true"
 28        android:theme="@style/AppTheme" >
-28-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:19:9-40
+28-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:19:9-40
 29        <activity
-29-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:20:9-29:20
+29-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:20:9-29:20
 30            android:name="com.example.agarapp.ResultActivity"
-30-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:21:13-43
+30-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:21:13-43
 31            android:label="@string/title_activity_result"
-31-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:22:13-58
+31-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:22:13-58
 32            android:theme="@style/AppTheme.NoActionBar" >
-32-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:23:13-56
+32-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:23:13-56
 33            <intent-filter>
-33-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:24:13-28:29
+33-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:24:13-28:29
 34                <action android:name="android.intent.action.RESULT" />
-34-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:25:17-71
-34-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:25:25-68
+34-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:25:17-71
+34-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:25:25-68
 35
 36                <category android:name="android.intent.category.LAUNCHER" />
-36-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:27:17-77
-36-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:27:27-74
+36-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:27:17-77
+36-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:27:27-74
 37            </intent-filter>
 38        </activity>
 39        <activity
-39-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:30:9-39:20
+39-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:30:9-39:20
 40            android:name="com.example.agarapp.MainActivity"
-40-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:31:13-41
+40-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:31:13-41
 41            android:label="@string/app_name"
-41-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:32:13-45
+41-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:32:13-45
 42            android:theme="@style/AppTheme.NoActionBar" >
-42-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:33:13-56
+42-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:33:13-56
 43            <intent-filter>
-43-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:34:13-38:29
+43-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:34:13-38:29
 44                <action android:name="android.intent.action.MAIN" />
-44-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:35:17-69
-44-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:35:25-66
+44-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:35:17-69
+44-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:35:25-66
 45
 46                <category android:name="android.intent.category.LAUNCHER" />
-46-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:27:17-77
-46-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:27:27-74
+46-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:27:17-77
+46-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:27:27-74
 47            </intent-filter>
 48        </activity>
 49        <activity
-49-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:40:9-49:20
+49-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:40:9-49:20
 50            android:name="com.example.agarapp.HistoryActivity"
-50-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:41:13-44
+50-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:41:13-44
 51            android:label="@string/app_name"
-51-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:42:13-45
+51-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:42:13-45
 52            android:theme="@style/AppTheme.NoActionBar" >
-52-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:43:13-56
+52-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:43:13-56
 53            <intent-filter>
-53-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:44:13-48:29
+53-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:44:13-48:29
 54                <action android:name="android.intent.action.HISTORY" />
-54-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:45:17-72
-54-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:45:25-69
+54-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:45:17-72
+54-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:45:25-69
 55
 56                <category android:name="android.intent.category.LAUNCHER" />
-56-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:27:17-77
-56-->/Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:27:27-74
+56-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:27:17-77
+56-->/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:27:27-74
 57            </intent-filter>
 58        </activity>
 59    </application>

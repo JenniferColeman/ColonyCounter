@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/derek/Classes/cs4096/agar/Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "/Users/derek/Classes/cs4096/agar/agar-ui/Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "/Users/derek/.gradle/caches/transforms-2/files-2.1/0cda78b0c57d94f0d6171dc3e9757caf/material-1.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",

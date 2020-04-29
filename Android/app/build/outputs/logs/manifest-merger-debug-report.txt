@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:2:1-52:12
-INJECTED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:2:1-52:12
-INJECTED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:2:1-52:12
-INJECTED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:2:1-52:12
+ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:2:1-52:12
 MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] /Users/derek/.gradle/caches/transforms-2/files-2.1/49f7d129d242ac67b8aed8d65445213d/navigation-ui-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/derek/.gradle/caches/transforms-2/files-2.1/9341d82db55dbf3f47b407fa98af8801/navigation-ui-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.0.0] /Users/derek/.gradle/caches/transforms-2/files-2.1/0cda78b0c57d94f0d6171dc3e9757caf/material-1.0.0/AndroidManifest.xml:17:1-24:12
@@ -45,39 +45,39 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/derek/.gradle/cach
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/derek/.gradle/caches/transforms-2/files-2.1/4a38af8dbe2ef8698670acff9fcf1d4f/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/derek/.gradle/caches/transforms-2/files-2.1/a2f8e861675e6ae405da5ff79c9284f9/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/derek/.gradle/caches/transforms-2/files-2.1/1362bd0c3e532f36a92aa549797d5644/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:2:1-52:12
-INJECTED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:2:1-52:12
-INJECTED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:2:1-52:12
 	package
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:3:5-34
-		INJECTED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:2:1-52:12
-		INJECTED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:2:1-52:12
+		INJECTED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:2:1-52:12
-		INJECTED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:2:1-52:12
+		INJECTED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:5:5-80
+ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:5:5-80
 	android:name
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:5:22-77
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:5:22-77
 uses-permission#android.permission.INTERNET
-ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:6:5-7:11
+ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:6:5-7:11
 	android:name
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:6:22-64
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:6:22-64
 uses-feature#android.hardware.camera
-ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:9:5-11:35
+ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:9:5-11:35
 	android:required
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:11:9-32
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:11:9-32
 	android:name
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:10:9-47
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:10:9-47
 application
-ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:13:5-50:19
+ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:13:5-50:19
 MERGED from [com.google.android.material:material:1.0.0] /Users/derek/.gradle/caches/transforms-2/files-2.1/0cda78b0c57d94f0d6171dc3e9757caf/material-1.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] /Users/derek/.gradle/caches/transforms-2/files-2.1/0cda78b0c57d94f0d6171dc3e9757caf/material-1.0.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/derek/.gradle/caches/transforms-2/files-2.1/6d0a7aca174ed9ba77f4189e73840ba8/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
@@ -91,67 +91,67 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/dere
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.2] /Users/derek/.gradle/caches/transforms-2/files-2.1/ac4c1a11a19ffdad8949ea2821fd03f8/core-1.0.2/AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:18:9-35
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:18:9-35
 	android:label
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:16:9-41
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:16:9-41
 	android:roundIcon
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:17:9-54
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:17:9-54
 	android:icon
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:15:9-43
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:15:9-43
 	android:allowBackup
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:14:9-35
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:14:9-35
 	android:theme
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:19:9-40
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:19:9-40
 activity#com.example.agarapp.ResultActivity
-ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:20:9-29:20
+ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:20:9-29:20
 	android:label
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:22:13-58
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:22:13-58
 	android:theme
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:23:13-56
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:23:13-56
 	android:name
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:21:13-43
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:21:13-43
 intent-filter#action:name:android.intent.action.RESULT+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:24:13-28:29
+ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:24:13-28:29
 action#android.intent.action.RESULT
-ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:25:17-71
+ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:25:17-71
 	android:name
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:25:25-68
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:25:25-68
 category#android.intent.category.LAUNCHER
-ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:27:17-77
+ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:27:27-74
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:27:27-74
 activity#com.example.agarapp.MainActivity
-ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:30:9-39:20
+ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:30:9-39:20
 	android:label
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:32:13-45
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:32:13-45
 	android:theme
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:33:13-56
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:33:13-56
 	android:name
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:31:13-41
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:31:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:34:13-38:29
+ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:34:13-38:29
 action#android.intent.action.MAIN
-ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:35:17-69
+ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:35:17-69
 	android:name
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:35:25-66
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:35:25-66
 activity#com.example.agarapp.HistoryActivity
-ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:40:9-49:20
+ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:40:9-49:20
 	android:label
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:42:13-45
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:42:13-45
 	android:theme
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:43:13-56
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:43:13-56
 	android:name
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:41:13-44
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:41:13-44
 intent-filter#action:name:android.intent.action.HISTORY+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:44:13-48:29
+ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:44:13-48:29
 action#android.intent.action.HISTORY
-ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:45:17-72
+ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:45:17-72
 	android:name
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml:45:25-69
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml:45:25-69
 uses-sdk
-INJECTED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml
 MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] /Users/derek/.gradle/caches/transforms-2/files-2.1/49f7d129d242ac67b8aed8d65445213d/navigation-ui-ktx-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] /Users/derek/.gradle/caches/transforms-2/files-2.1/49f7d129d242ac67b8aed8d65445213d/navigation-ui-ktx-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/derek/.gradle/caches/transforms-2/files-2.1/9341d82db55dbf3f47b407fa98af8801/navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
@@ -234,13 +234,13 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/derek/.gra
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/derek/.gradle/caches/transforms-2/files-2.1/a2f8e861675e6ae405da5ff79c9284f9/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/derek/.gradle/caches/transforms-2/files-2.1/1362bd0c3e532f36a92aa549797d5644/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/derek/.gradle/caches/transforms-2/files-2.1/1362bd0c3e532f36a92aa549797d5644/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-INJECTED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/derek/Classes/cs4096/agar/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/derek/Classes/cs4096/agar/agar-ui/Android/app/src/main/AndroidManifest.xml
