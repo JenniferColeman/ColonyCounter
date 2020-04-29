@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var imageButton: Button
     private lateinit var sendButton: Button
     private var imageData: ByteArray? = null
-    private val postURL: String = "http://derekhanger.pythonanywhere.com/"
+    private val postURL: String = "https://ptsv2.com/t/uwa7m-1588121273"
 
         override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -44,8 +44,9 @@ class MainActivity : AppCompatActivity() {
         }
 
         floatingActionButton.setOnClickListener {
-//            val intent = Intent(this, ResultActivity::class.java)
-//            startActivity(intent);
+            VolleyFileUploadRequest(Request.Method.POST),;
+            val intent = Intent(this, ResultActivity::class.java)
+            startActivity(intent);
         }
     }
 
