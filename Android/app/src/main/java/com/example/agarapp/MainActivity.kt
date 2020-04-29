@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         floatingActionButton.setOnClickListener {
-            VolleyFileUploadRequest(Request.Method.POST),;
+            uploadImage();
             val intent = Intent(this, ResultActivity::class.java)
             startActivity(intent);
         }
